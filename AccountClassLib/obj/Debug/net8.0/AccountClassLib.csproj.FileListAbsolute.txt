@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\AccountClassLib\bin\Debug\net8.0\AccountClassLib.exe
+D:\Swabhav\Assignment\AccountClassLib\bin\Debug\net8.0\AccountClassLib.deps.json
+D:\Swabhav\Assignment\AccountClassLib\bin\Debug\net8.0\AccountClassLib.runtimeconfig.json
+D:\Swabhav\Assignment\AccountClassLib\bin\Debug\net8.0\AccountClassLib.dll
+D:\Swabhav\Assignment\AccountClassLib\bin\Debug\net8.0\AccountClassLib.pdb
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\AccountClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\AccountClassLib.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\AccountClassLib.AssemblyInfo.cs
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\AccountClassLib.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\AccountClassLib.dll
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\refint\AccountClassLib.dll
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\AccountClassLib.pdb
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\AccountClassLib.genruntimeconfig.cache
+D:\Swabhav\Assignment\AccountClassLib\obj\Debug\net8.0\ref\AccountClassLib.dll
